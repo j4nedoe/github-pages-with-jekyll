@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "YE"
+date: 2020-10-10
 ---
 
 Lorem Lorem
